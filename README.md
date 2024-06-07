@@ -36,7 +36,7 @@ MQTT_PWD = <mqtt user password>
 ```
 
 For HUB 2000 an additional environment variable is needed as follows
-````
+```
 PROD_NAME=SolarFlow Hub 2000
 ```
 
